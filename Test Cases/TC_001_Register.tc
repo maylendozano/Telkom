@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2abc14e7-e29d-4244-aa1c-76ab9d746509</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97c43b25-c299-4f46-a130-e4655e866a0f</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6803dd6a-bc23-4772-ba88-ce8220d498f7</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ef2def2-4cee-48e2-91d7-ab70a5198c37</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49abb79f-5dc3-46aa-9e56-e92eba491e6a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc5e4fb6-7a84-485c-9552-36577c9468b3</id>
+      <masked>false</masked>
+      <name>Condition</name>
+   </variable>
+</TestCaseEntity>

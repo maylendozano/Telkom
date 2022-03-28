@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Regress Register_Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1a5fece6-655f-4b3a-ba25-2f50643f8954</testSuiteGuid>
+   <testCaseLink>
+      <guid>452a7a04-6aac-4f27-a83d-e4a473357749</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_001_Register</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b3d2820c-2a2e-4474-9de9-934a3e8ca730</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register_Login/Register</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>b3d2820c-2a2e-4474-9de9-934a3e8ca730</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>97c43b25-c299-4f46-a130-e4655e866a0f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3d2820c-2a2e-4474-9de9-934a3e8ca730</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Phone</value>
+         <variableId>6803dd6a-bc23-4772-ba88-ce8220d498f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3d2820c-2a2e-4474-9de9-934a3e8ca730</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>8ef2def2-4cee-48e2-91d7-ab70a5198c37</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3d2820c-2a2e-4474-9de9-934a3e8ca730</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>49abb79f-5dc3-46aa-9e56-e92eba491e6a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3d2820c-2a2e-4474-9de9-934a3e8ca730</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Condition</value>
+         <variableId>fc5e4fb6-7a84-485c-9552-36577c9468b3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3652c357-0873-4ffe-afe1-d4fdfcc442ab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_002_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d8aa5bae-0e16-4b4e-8d97-28714d0952a7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register_Login/Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d8aa5bae-0e16-4b4e-8d97-28714d0952a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>865f3cd4-6f0a-4d1c-86c3-f16427c11048</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d8aa5bae-0e16-4b4e-8d97-28714d0952a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>846fdbbd-50ce-4ef6-b039-3edb987f9f83</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d8aa5bae-0e16-4b4e-8d97-28714d0952a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Conditon</value>
+         <variableId>911d12b2-7ba6-4ced-bb6b-636afa9ca410</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
